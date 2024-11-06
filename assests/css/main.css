@@ -1,0 +1,10 @@
+@import'./base.css';
+.category,.product{
+    background-color:#fff;
+    width:25%;
+    padding:20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin:10px;
+    text-align:center;
+    
+}

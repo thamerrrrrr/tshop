@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}
+.container{
+    width:calc(100%-120px);
+    margin:auto;
+}
+.row{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  align-items: center;
+
+}
